@@ -571,7 +571,7 @@ Stored Procedures:    1
 1. **README.md** - Project overview
 2. **SETUP_GUIDE.md** - Installation instructions
 3. **SECURITY_GUIDE.md** - Security implementation
-4. **TIME_FEATURES_GUIDE.md** - Scheduler documentation
+4. **USER_MANUAL.md** - Scheduler documentation
 5. **API_REFERENCE.md** - Method documentation
 
 ---
